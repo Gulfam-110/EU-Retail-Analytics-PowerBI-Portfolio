@@ -1,8 +1,9 @@
-# EU Retail Analytics — Power BI Portfolio Project
+# EU Retail Analytics – Power BI Portfolio Project
+### 💼 Order this Power BI Service on Fiverr
+Need an executive retail sales dashboard, custom DAX measures, or Power Query data cleaning?  
+👉 **[Click Here to Hire Me on Fiverr](https://www.fiverr.com/s/zvyNbbY)**
 
-## 📊 Project Overview
-
-This project is an end-to-end retail analytics solution built with Microsoft Power BI.
+This project is an end-to-end retail analytics solution built with Microsoft Power BI
 
 The project simulates a European retail business operating across multiple countries, product categories, sales channels, customers, returns, and monthly sales targets.
 
